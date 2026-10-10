@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="632" viewBox="0 0 1000 632" font-family="BeaconcastMono, 'JetBrains Mono', monospace">
+<style>/* Font: subset of JetBrains Mono, Copyright 2020 The JetBrains Mono Project Authors, SIL Open Font License 1.1. */@font-face{font-family:BeaconcastMono;font-weight:400;src:url(data:font/woff;base64,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) format('woff')}@keyframes blink{0%{opacity:1}50%{opacity:0}}.blink{animation:blink 1s step-end infinite}@keyframes k0{0%{opacity:1}6.757%{opacity:0}100%{opacity:0}}.k0{opacity:0;animation:k0 14.8s step-end infinite}@keyframes k1{0%{opacity:0}11.824%{opacity:1}32.095%{opacity:0}100%{opacity:0}}.k1{opacity:0;animation:k1 14.8s step-end infinite}@keyframes k2{0%{opacity:0}37.838%{opacity:1}58.108%{opacity:0}100%{opacity:0}}.k2{opacity:0;animation:k2 14.8s step-end infinite}@keyframes k3{0%{opacity:0}62.162%{opacity:1}100%{opacity:1}}.k3{opacity:0;animation:k3 14.8s step-end infinite}@keyframes k4{0%{opacity:0}6.757%{opacity:1}11.824%{opacity:0}100%{opacity:0}}.k4{opacity:0;animation:k4 14.8s step-end infinite}@keyframes k5{0%{opacity:0}6.757%{opacity:1}7.095%{opacity:0}100%{opacity:0}}.k5{opacity:0;animation:k5 14.8s step-end infinite}@keyframes k6{0%{opacity:0}7.095%{opacity:1}11.824%{opacity:0}100%{opacity:0}}.k6{opacity:0;animation:k6 14.8s step-end infinite}@keyframes k7{0%{opacity:0}7.095%{opacity:1}7.432%{opacity:0}100%{opacity:0}}.k7{opacity:0;animation:k7 14.8s step-end infinite}@keyframes k8{0%{opacity:0}7.432%{opacity:1}11.824%{opacity:0}100%{opacity:0}}.k8{opacity:0;animation:k8 14.8s step-end infinite}@keyframes k9{0%{opacity:0}7.432%{opacity:1}7.77%{opacity:0}100%{opacity:0}}.k9{opacity:0;animation:k9 14.8s step-end infinite}@keyframes k10{0%{opacity:0}7.77%{opacity:1}11.824%{opacity:0}100%{opacity:0}}.k10{opacity:0;animation:k10 14.8s step-end infinite}@keyframes k11{0%{opacity:0}7.77%{opacity:1}8.108%{opacity:0}100%{opacity:0}}.k11{opacity:0;animation:k11 14.8s step-end infinite}@keyframes k12{0%{opacity:0}8.108%{opacity:1}11.824%{opacity:0}100%{opacity:0}}.k12{opacity:0;animation:k12 14.8s step-end infinite}@keyframes k13{0%{opacity:0}8.108%{opacity:1}8.446%{opacity:0}100%{opacity:0}}.k13{opacity:0;animation:k13 14.8s step-end infinite}@keyframes k14{0%{opacity:0}8.446%{opacity:1}11.824%{opacity:0}100%{opacity:0}}.k14{opacity:0;animation:k14 14.8s step-end infinite}@keyframes k15{0%{opacity:0}32.095%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k15{opacity:0;animation:k15 14.8s step-end infinite}@keyframes k16{0%{opacity:0}32.095%{opacity:1}32.432%{opacity:0}100%{opacity:0}}.k16{opacity:0;animation:k16 14.8s step-end infinite}@keyframes k17{0%{opacity:0}32.432%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k17{opacity:0;animation:k17 14.8s step-end infinite}@keyframes k18{0%{opacity:0}32.432%{opacity:1}32.77%{opacity:0}100%{opacity:0}}.k18{opacity:0;animation:k18 14.8s step-end infinite}@keyframes k19{0%{opacity:0}32.77%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k19{opacity:0;animation:k19 14.8s step-end infinite}@keyframes k20{0%{opacity:0}32.77%{opacity:1}33.108%{opacity:0}100%{opacity:0}}.k20{opacity:0;animation:k20 14.8s step-end infinite}@keyframes k21{0%{opacity:0}33.108%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k21{opacity:0;animation:k21 14.8s step-end infinite}@keyframes k22{0%{opacity:0}33.108%{opacity:1}33.446%{opacity:0}100%{opacity:0}}.k22{opacity:0;animation:k22 14.8s step-end infinite}@keyframes k23{0%{opacity:0}33.446%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k23{opacity:0;animation:k23 14.8s step-end infinite}@keyframes k24{0%{opacity:0}33.446%{opacity:1}33.784%{opacity:0}100%{opacity:0}}.k24{opacity:0;animation:k24 14.8s step-end infinite}@keyframes k25{0%{opacity:0}33.784%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k25{opacity:0;animation:k25 14.8s step-end infinite}@keyframes k26{0%{opacity:0}33.784%{opacity:1}34.122%{opacity:0}100%{opacity:0}}.k26{opacity:0;animation:k26 14.8s step-end infinite}@keyframes k27{0%{opacity:0}34.122%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k27{opacity:0;animation:k27 14.8s step-end infinite}@keyframes k28{0%{opacity:0}34.122%{opacity:1}34.459%{opacity:0}100%{opacity:0}}.k28{opacity:0;animation:k28 14.8s step-end infinite}@keyframes k29{0%{opacity:0}34.459%{opacity:1}37.838%{opacity:0}100%{opacity:0}}.k29{opacity:0;animation:k29 14.8s step-end infinite}@keyframes k30{0%{opacity:0}58.108%{opacity:1}62.162%{opacity:0}100%{opacity:0}}.k30{opacity:0;animation:k30 14.8s step-end infinite}@keyframes k31{0%{opacity:0}58.108%{opacity:1}58.446%{opacity:0}100%{opacity:0}}.k31{opacity:0;animation:k31 14.8s step-end infinite}@keyframes k32{0%{opacity:0}58.446%{opacity:1}62.162%{opacity:0}100%{opacity:0}}.k32{opacity:0;animation:k32 14.8s step-end infinite}@keyframes k33{0%{opacity:0}58.446%{opacity:1}58.784%{opacity:0}100%{opacity:0}}.k33{opacity:0;animation:k33 14.8s step-end infinite}@keyframes k34{0%{opacity:0}58.784%{opacity:1}62.162%{opacity:0}100%{opacity:0}}.k34{opacity:0;animation:k34 14.8s step-end infinite}@keyframes k35{0%{opacity:0}11.824%{opacity:1}48.649%{opacity:0}100%{opacity:0}}.k35{opacity:0;animation:k35 14.8s step-end infinite}@keyframes k36{0%{opacity:0}12.838%{opacity:1}48.649%{opacity:0}100%{opacity:0}}.k36{opacity:0;animation:k36 14.8s step-end infinite}@keyframes k37{0%{opacity:0}17.905%{opacity:1}48.649%{opacity:0}100%{opacity:0}}.k37{opacity:0;animation:k37 14.8s step-end infinite}@keyframes k38{0%{opacity:0}22.635%{opacity:1}48.649%{opacity:0}100%{opacity:0}}.k38{opacity:0;animation:k38 14.8s step-end infinite}@keyframes k39{0%{opacity:0}37.838%{opacity:1}48.649%{opacity:0}100%{opacity:0}}.k39{opacity:0;animation:k39 14.8s step-end infinite}@keyframes k40{0%{opacity:0}38.851%{opacity:1}48.649%{opacity:0}100%{opacity:0}}.k40{opacity:0;animation:k40 14.8s step-end infinite}@keyframes k41{0%{opacity:0}43.919%{opacity:1}48.649%{opacity:0}100%{opacity:0}}.k41{opacity:0;animation:k41 14.8s step-end infinite}@keyframes k42{0%{opacity:0}48.649%{opacity:1}62.162%{opacity:0}100%{opacity:0}}.k42{opacity:0;animation:k42 14.8s step-end infinite}@keyframes k43{0%{opacity:0}62.162%{opacity:1}63.176%{opacity:0}100%{opacity:0}}.k43{opacity:0;animation:k43 14.8s step-end infinite}@keyframes k44{0%{opacity:0}63.176%{opacity:1}68.243%{opacity:0}100%{opacity:0}}.k44{opacity:0;animation:k44 14.8s step-end infinite}@keyframes k45{0%{opacity:0}68.243%{opacity:1}72.973%{opacity:0}100%{opacity:0}}.k45{opacity:0;animation:k45 14.8s step-end infinite}@keyframes k46{0%{opacity:0}72.973%{opacity:1}100%{opacity:1}}.k46{opacity:0;animation:k46 14.8s step-end infinite}@keyframes k47{0%{opacity:0}6.757%{opacity:1}13.514%{opacity:0}100%{opacity:0}}.k47{opacity:0;animation:k47 14.8s step-end infinite}@keyframes k48{0%{opacity:0}13.514%{opacity:1}17.905%{opacity:0}100%{opacity:0}}.k48{opacity:0;animation:k48 14.8s step-end infinite}@keyframes k49{0%{opacity:0}17.905%{opacity:1}22.635%{opacity:0}100%{opacity:0}}.k49{opacity:0;animation:k49 14.8s step-end infinite}@keyframes k50{0%{opacity:0}22.635%{opacity:1}29.392%{opacity:0}100%{opacity:0}}.k50{opacity:0;animation:k50 14.8s step-end infinite}@keyframes k51{0%{opacity:0}29.392%{opacity:1}36.149%{opacity:0}100%{opacity:0}}.k51{opacity:0;animation:k51 14.8s step-end infinite}@keyframes k52{0%{opacity:0}36.149%{opacity:1}42.905%{opacity:0}100%{opacity:0}}.k52{opacity:0;animation:k52 14.8s step-end infinite}@keyframes k53{0%{opacity:0}42.905%{opacity:1}43.919%{opacity:0}100%{opacity:0}}.k53{opacity:0;animation:k53 14.8s step-end infinite}@keyframes k54{0%{opacity:0}48.649%{opacity:1}55.405%{opacity:0}100%{opacity:0}}.k54{opacity:0;animation:k54 14.8s step-end infinite}@keyframes k55{0%{opacity:0}55.405%{opacity:1}62.162%{opacity:0}100%{opacity:0}}.k55{opacity:0;animation:k55 14.8s step-end infinite}@keyframes k56{0%{opacity:0}62.162%{opacity:1}68.243%{opacity:0}100%{opacity:0}}.k56{opacity:0;animation:k56 14.8s step-end infinite}@keyframes k57{0%{opacity:0}72.973%{opacity:1}79.73%{opacity:0}100%{opacity:0}}.k57{opacity:0;animation:k57 14.8s step-end infinite}@keyframes k58{0%{opacity:0}79.73%{opacity:1}86.486%{opacity:0}100%{opacity:0}}.k58{opacity:0;animation:k58 14.8s step-end infinite}@keyframes k59{0%{opacity:0}86.486%{opacity:1}93.243%{opacity:0}100%{opacity:0}}.k59{opacity:0;animation:k59 14.8s step-end infinite}@keyframes k60{0%{opacity:0}93.243%{opacity:1}100%{opacity:1}}.k60{opacity:0;animation:k60 14.8s step-end infinite}</style>
+<rect x="0" y="0" width="1000" height="632" rx="10" fill="#1c1c1c"/>
+<rect x="14" y="11" width="12" height="12" rx="6" fill="#ff5f57"/>
+<rect x="34" y="11" width="12" height="12" rx="6" fill="#febc2e"/>
+<rect x="54" y="11" width="12" height="12" rx="6" fill="#28c840"/>
+<rect x="0" y="34" width="1000" height="66" fill="#141414"/>
+<rect x="0" y="34" width="1000" height="24" fill="#262626"/>
+<rect x="0" y="58" width="1000" height="24" fill="#1f3f66"/>
+<rect x="8" y="65" width="12" height="9" rx="1" fill="none" stroke="#9fd3ff" stroke-width="1.5"/>
+<text x="24" y="50" font-size="13"><tspan fill="#b0b0b0">external</tspan></text>
+<text x="24" y="74" font-size="13"><tspan fill="#ffffff">203.0.113.24</tspan></text>
+<text x="144" y="50" font-size="13"><tspan fill="#b0b0b0">internal ▲</tspan></text>
+<text x="144" y="74" font-size="13"><tspan fill="#ffffff">10.10.10.20</tspan></text>
+<text x="254" y="50" font-size="13"><tspan fill="#b0b0b0">listener</tspan></text>
+<text x="254" y="74" font-size="13"><tspan fill="#ffffff">https</tspan></text>
+<text x="340.4" y="50" font-size="13"><tspan fill="#b0b0b0">user</tspan></text>
+<text x="340.4" y="74" font-size="13"><tspan fill="#ffffff">alice</tspan></text>
+<text x="420.4" y="50" font-size="13"><tspan fill="#b0b0b0">computer</tspan></text>
+<text x="420.4" y="74" font-size="13"><tspan fill="#ffffff">WKS01</tspan></text>
+<text x="512.4" y="50" font-size="13"><tspan fill="#b0b0b0">note</tspan></text>
+<text x="624.4" y="50" font-size="13"><tspan fill="#b0b0b0">process</tspan></text>
+<text x="624.4" y="74" font-size="13"><tspan fill="#ffffff">rundll32.exe</tspan></text>
+<text x="754.4" y="50" font-size="13"><tspan fill="#b0b0b0">pid</tspan></text>
+<text x="754.4" y="74" font-size="13"><tspan fill="#ffffff">4120</tspan></text>
+<text x="818.4" y="50" font-size="13"><tspan fill="#b0b0b0">arch</tspan></text>
+<text x="818.4" y="74" font-size="13"><tspan fill="#ffffff">x64</tspan></text>
+<text x="874.4" y="50" font-size="13"><tspan fill="#b0b0b0">last</tspan></text>
+<rect x="0" y="100" width="1000" height="6" fill="#2e2e2e"/>
+<rect x="0" y="106" width="1000" height="30" fill="#232323"/>
+<path d="M12 110H121.6A4 4 0 0 1 125.6 114V136H8V114A4 4 0 0 1 12 110Z" fill="#34393f"/>
+<text x="20" y="126" font-size="13"><tspan fill="#b0b0b0">Event Log  X</tspan></text>
+<path d="M138 110H356.8A4 4 0 0 1 360.8 114V136H134V114A4 4 0 0 1 138 110Z" fill="#000000"/>
+<text x="146" y="126" font-size="13"><tspan fill="#e0e0e0">Beacon 10.10.10.20@4120  X</tspan></text>
+<rect x="0" y="136" width="1000" height="440" fill="#000000"/>
+<rect x="0" y="576" width="1000" height="24" fill="#2b2b2b"/>
+<text x="16" y="593" font-size="13"><tspan fill="#5fafff">[WKS01]</tspan><tspan fill="#d0d0d0"> - x64 |  alice | 4120 - x64</tspan></text>
+<path d="M0 600H1000V622A10 10 0 0 1 990 632H10A10 10 0 0 1 0 622V600Z" fill="#000000"/>
+<text x="16" y="621" font-size="14"><tspan fill="#ffffff" text-decoration="underline">beacon</tspan><tspan fill="#ffffff">&gt; </tspan></text>
+<g class="k0"><g class="blink"><rect x="83.2" y="608" width="8.4" height="16" fill="#d0d0d0"/></g></g>
+<g class="k1"><g class="blink"><rect x="83.2" y="608" width="8.4" height="16" fill="#d0d0d0"/></g></g>
+<g class="k2"><g class="blink"><rect x="83.2" y="608" width="8.4" height="16" fill="#d0d0d0"/></g></g>
+<g class="k3"><g class="blink"><rect x="83.2" y="608" width="8.4" height="16" fill="#d0d0d0"/></g></g>
+<g class="k4"><text x="83.2" y="621" font-size="14"><tspan fill="#d0d0d0">u</tspan></text></g>
+<g class="k5"><rect x="91.6" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k6"><text x="91.6" y="621" font-size="14"><tspan fill="#d0d0d0">p</tspan></text></g>
+<g class="k7"><rect x="100" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k8"><text x="100" y="621" font-size="14"><tspan fill="#d0d0d0">t</tspan></text></g>
+<g class="k9"><rect x="108.4" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k10"><text x="108.4" y="621" font-size="14"><tspan fill="#d0d0d0">i</tspan></text></g>
+<g class="k11"><rect x="116.8" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k12"><text x="116.8" y="621" font-size="14"><tspan fill="#d0d0d0">m</tspan></text></g>
+<g class="k13"><rect x="125.2" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k14"><text x="125.2" y="621" font-size="14"><tspan fill="#d0d0d0">e</tspan></text></g>
+<g class="k14"><rect x="133.6" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k15"><text x="83.2" y="621" font-size="14"><tspan fill="#d0d0d0">i</tspan></text></g>
+<g class="k16"><rect x="91.6" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k17"><text x="91.6" y="621" font-size="14"><tspan fill="#d0d0d0">p</tspan></text></g>
+<g class="k18"><rect x="100" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k19"><text x="100" y="621" font-size="14"><tspan fill="#d0d0d0">c</tspan></text></g>
+<g class="k20"><rect x="108.4" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k21"><text x="108.4" y="621" font-size="14"><tspan fill="#d0d0d0">o</tspan></text></g>
+<g class="k22"><rect x="116.8" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k23"><text x="116.8" y="621" font-size="14"><tspan fill="#d0d0d0">n</tspan></text></g>
+<g class="k24"><rect x="125.2" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k25"><text x="125.2" y="621" font-size="14"><tspan fill="#d0d0d0">f</tspan></text></g>
+<g class="k26"><rect x="133.6" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k27"><text x="133.6" y="621" font-size="14"><tspan fill="#d0d0d0">i</tspan></text></g>
+<g class="k28"><rect x="142" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k29"><text x="142" y="621" font-size="14"><tspan fill="#d0d0d0">g</tspan></text></g>
+<g class="k29"><rect x="150.4" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k30"><text x="83.2" y="621" font-size="14"><tspan fill="#d0d0d0">a</tspan></text></g>
+<g class="k31"><rect x="91.6" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k32"><text x="91.6" y="621" font-size="14"><tspan fill="#d0d0d0">r</tspan></text></g>
+<g class="k33"><rect x="100" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k34"><text x="100" y="621" font-size="14"><tspan fill="#d0d0d0">p</tspan></text></g>
+<g class="k34"><rect x="108.4" y="608" width="8.4" height="16" fill="#d0d0d0"/></g>
+<g class="k35"><text x="16" y="161" font-size="14"><tspan fill="#ffffff" text-decoration="underline">beacon</tspan><tspan fill="#ffffff">&gt; uptime</tspan></text></g>
+<g class="k36"><text x="16" y="181" font-size="14"><tspan fill="#5fafff">[*] </tspan><tspan fill="#d0d0d0">Tasked beacon to run uptime BOF (T1082)</tspan></text></g>
+<g class="k37"><text x="16" y="201" font-size="14"><tspan fill="#5fd75f">[+] </tspan><tspan fill="#d0d0d0">host called home, sent: 3184 bytes</tspan></text></g>
+<g class="k38"><text x="16" y="221" font-size="14"><tspan fill="#5fd75f">[+] </tspan><tspan fill="#d0d0d0">received output:</tspan></text></g>
+<g class="k38"><text x="16" y="241" font-size="14"><tspan fill="#d0d0d0">Uptime: 3 days, 6 hours, 41 minutes, 12 seconds</tspan></text></g>
+<g class="k38"><text x="16" y="261" font-size="14"><tspan fill="#d0d0d0">Local time: 2026-10-10 14:03:05</tspan></text></g>
+<g class="k38"><text x="16" y="281" font-size="14"><tspan fill="#d0d0d0">Boot time: 2026-10-07 07:21:53</tspan></text></g>
+<g class="k39"><text x="16" y="301" font-size="14"><tspan fill="#ffffff" text-decoration="underline">beacon</tspan><tspan fill="#ffffff">&gt; ipconfig</tspan></text></g>
+<g class="k40"><text x="16" y="321" font-size="14"><tspan fill="#5fafff">[*] </tspan><tspan fill="#d0d0d0">Tasked beacon to run ipconfig BOF (T1016)</tspan></text></g>
+<g class="k41"><text x="16" y="341" font-size="14"><tspan fill="#5fd75f">[+] </tspan><tspan fill="#d0d0d0">host called home, sent: 9856 bytes</tspan></text></g>
+<g class="k42"><text x="16" y="161" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k42"><text x="16" y="181" font-size="14"><tspan fill="#d0d0d0">   Host Name . . . . . . . . . . . . : WKS01</tspan></text></g>
+<g class="k43"><text x="16" y="161" font-size="14"><tspan fill="#d0d0d0">   Host Name . . . . . . . . . . . . : WKS01</tspan></text></g>
+<g class="k42"><text x="16" y="201" font-size="14"><tspan fill="#d0d0d0">   Primary Dns Suffix  . . . . . . . : contoso.lab</tspan></text></g>
+<g class="k43"><text x="16" y="181" font-size="14"><tspan fill="#d0d0d0">   Primary Dns Suffix  . . . . . . . : contoso.lab</tspan></text></g>
+<g class="k44"><text x="16" y="161" font-size="14"><tspan fill="#d0d0d0">   Primary Dns Suffix  . . . . . . . : contoso.lab</tspan></text></g>
+<g class="k42"><text x="16" y="221" font-size="14"><tspan fill="#d0d0d0">   Node Type . . . . . . . . . . . . : Hybrid</tspan></text></g>
+<g class="k43"><text x="16" y="201" font-size="14"><tspan fill="#d0d0d0">   Node Type . . . . . . . . . . . . : Hybrid</tspan></text></g>
+<g class="k44"><text x="16" y="181" font-size="14"><tspan fill="#d0d0d0">   Node Type . . . . . . . . . . . . : Hybrid</tspan></text></g>
+<g class="k45"><text x="16" y="161" font-size="14"><tspan fill="#d0d0d0">   Node Type . . . . . . . . . . . . : Hybrid</tspan></text></g>
+<g class="k42"><text x="16" y="241" font-size="14"><tspan fill="#d0d0d0">   IP Routing Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k43"><text x="16" y="221" font-size="14"><tspan fill="#d0d0d0">   IP Routing Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k44"><text x="16" y="201" font-size="14"><tspan fill="#d0d0d0">   IP Routing Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k45"><text x="16" y="181" font-size="14"><tspan fill="#d0d0d0">   IP Routing Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k42"><text x="16" y="261" font-size="14"><tspan fill="#d0d0d0">   WINS Proxy Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k43"><text x="16" y="241" font-size="14"><tspan fill="#d0d0d0">   WINS Proxy Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k44"><text x="16" y="221" font-size="14"><tspan fill="#d0d0d0">   WINS Proxy Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k45"><text x="16" y="201" font-size="14"><tspan fill="#d0d0d0">   WINS Proxy Enabled. . . . . . . . : No</tspan></text></g>
+<g class="k42"><text x="16" y="281" font-size="14"><tspan fill="#d0d0d0">   DNS Suffix Search List. . . . . . : contoso.lab</tspan></text></g>
+<g class="k43"><text x="16" y="261" font-size="14"><tspan fill="#d0d0d0">   DNS Suffix Search List. . . . . . : contoso.lab</tspan></text></g>
+<g class="k44"><text x="16" y="241" font-size="14"><tspan fill="#d0d0d0">   DNS Suffix Search List. . . . . . : contoso.lab</tspan></text></g>
+<g class="k45"><text x="16" y="221" font-size="14"><tspan fill="#d0d0d0">   DNS Suffix Search List. . . . . . : contoso.lab</tspan></text></g>
+<g class="k42"><text x="16" y="301" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k43"><text x="16" y="281" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k44"><text x="16" y="261" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k45"><text x="16" y="241" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k42"><text x="16" y="321" font-size="14"><tspan fill="#d0d0d0">Ethernet adapter Ethernet:</tspan></text></g>
+<g class="k43"><text x="16" y="301" font-size="14"><tspan fill="#d0d0d0">Ethernet adapter Ethernet:</tspan></text></g>
+<g class="k44"><text x="16" y="281" font-size="14"><tspan fill="#d0d0d0">Ethernet adapter Ethernet:</tspan></text></g>
+<g class="k45"><text x="16" y="261" font-size="14"><tspan fill="#d0d0d0">Ethernet adapter Ethernet:</tspan></text></g>
+<g class="k42"><text x="16" y="341" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k43"><text x="16" y="321" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k44"><text x="16" y="301" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k45"><text x="16" y="281" font-size="14"><tspan fill="#d0d0d0"></tspan></text></g>
+<g class="k42"><text x="16" y="361" font-size="14"><tspan fill="#d0d0d0">   Connection-specific DNS Suffix  . :</tspan></text></g>
+<g class="k43"><text x="16" y="341" font-size="14"><tspan fill="#d0d0d0">   Connection-specific DNS Suffix  . :</tspan></text></g>
+<g class="k44"><text x="16" y="321" font-size="14"><tspan fill="#d0d0d0">   Connection-specific DNS Suffix  . :</tspan></text></g>
+<g class="k45"><text x="16" y="301" font-size="14"><tspan fill="#d0d0d0">   Connection-specific DNS Suffix  . :</tspan></text></g>
+<g class="k42"><text x="16" y="381" font-size="14"><tspan fill="#d0d0d0">   Description . . . . . . . . . . . : Red Hat VirtIO Ethernet Adapter</tspan></text></g>
+<g class="k43"><text x="16" y="361" font-size="14"><tspan fill="#d0d0d0">   Description . . . . . . . . . . . : Red Hat VirtIO Ethernet Adapter</tspan></text></g>
+<g class="k44"><text x="16" y="341" font-size="14"><tspan fill="#d0d0d0">   Description . . . . . . . . . . . : Red Hat VirtIO Ethernet Adapter</tspan></text></g>
+<g class="k45"><text x="16" y="321" font-size="14"><tspan fill="#d0d0d0">   Description . . . . . . . . . . . : Red Hat VirtIO Ethernet Adapter</tspan></text></g>
+<g class="k42"><text x="16" y="401" font-size="14"><tspan fill="#d0d0d0">   Physical Address. . . . . . . . . : 00-16-3E-2A-5C-91</tspan></text></g>
+<g class="k43"><text x="16" y="381" font-size="14"><tspan fill="#d0d0d0">   Physical Address. . . . . . . . . : 00-16-3E-2A-5C-91</tspan></text></g>
+<g class="k44"><text x="16" y="361" font-size="14"><tspan fill="#d0d0d0">   Physical Address. . . . . . . . . : 00-16-3E-2A-5C-91</tspan></text></g>
+<g class="k45"><text x="16" y="341" font-size="14"><tspan fill="#d0d0d0">   Physical Address. . . . . . . . . : 00-16-3E-2A-5C-91</tspan></text></g>
+<g class="k46"><text x="16" y="161" font-size="14"><tspan fill="#d0d0d0">   Physical Address. . . . . . . . . : 00-16-3E-2A-5C-91</tspan></text></g>
+<g class="k42"><text x="16" y="421" font-size="14"><tspan fill="#d0d0d0">   DHCP Enabled. . . . . . . . . . . : No</tspan></text></g>
+<g class="k43"><text x="16" y="401" font-size="14"><tspan fill="#d0d0d0">   DHCP Enabled. . . . . . . . . . . : No</tspan></text></g>
+<g class="k44"><text x="16" y="381" font-size="14"><tspan fill="#d0d0d0">   DHCP Enabled. . . . . . . . . . . : No</tspan></text></g>
+<g class="k45"><text x="16" y="361" font-size="14"><tspan fill="#d0d0d0">   DHCP Enabled. . . . . . . . . . . : No</tspan></text></g>
+<g class="k46"><text x="16" y="181" font-size="14"><tspan fill="#d0d0d0">   DHCP Enabled. . . . . . . . . . . : No</tspan></text></g>
+<g class="k42"><text x="16" y="441" font-size="14"><tspan fill="#d0d0d0">   Autoconfiguration Enabled . . . . : Yes</tspan></text></g>
+<g class="k43"><text x="16" y="421" font-size="14"><tspan fill="#d0d0d0">   Autoconfiguration Enabled . . . . : Yes</tspan></text></g>
+<g class="k44"><text x="16" y="401" font-size="14"><tspan fill="#d0d0d0">   Autoconfiguration Enabled . . . . : Yes</tspan></text></g>
+<g class="k45"><text x="16" y="381" font-size="14"><tspan fill="#d0d0d0">   Autoconfiguration Enabled . . . . : Yes</tspan></text></g>
+<g class="k46"><text x="16" y="201" font-size="14"><tspan fill="#d0d0d0">   Autoconfiguration Enabled . . . . : Yes</tspan></text></g>
+<g class="k42"><text x="16" y="461" font-size="14"><tspan fill="#d0d0d0">   Link-local IPv6 Address . . . . . : fe80::a4c1:2f9b:6d3e:81c2%6(Preferred)</tspan></text></g>
+<g class="k43"><text x="16" y="441" font-size="14"><tspan fill="#d0d0d0">   Link-local IPv6 Address . . . . . : fe80::a4c1:2f9b:6d3e:81c2%6(Preferred)</tspan></text></g>
+<g class="k44"><text x="16" y="421" font-size="14"><tspan fill="#d0d0d0">   Link-local IPv6 Address . . . . . : fe80::a4c1:2f9b:6d3e:81c2%6(Preferred)</tspan></text></g>
+<g class="k45"><text x="16" y="401" font-size="14"><tspan fill="#d0d0d0">   Link-local IPv6 Address . . . . . : fe80::a4c1:2f9b:6d3e:81c2%6(Preferred)</tspan></text></g>
+<g class="k46"><text x="16" y="221" font-size="14"><tspan fill="#d0d0d0">   Link-local IPv6 Address . . . . . : fe80::a4c1:2f9b:6d3e:81c2%6(Preferred)</tspan></text></g>
+<g class="k42"><text x="16" y="481" font-size="14"><tspan fill="#d0d0d0">   IPv4 Address. . . . . . . . . . . : 10.10.10.20(Preferred)</tspan></text></g>
+<g class="k43"><text x="16" y="461" font-size="14"><tspan fill="#d0d0d0">   IPv4 Address. . . . . . . . . . . : 10.10.10.20(Preferred)</tspan></text></g>
+<g class="k44"><text x="16" y="441" font-size="14"><tspan fill="#d0d0d0">   IPv4 Address. . . . . . . . . . . : 10.10.10.20(Preferred)</tspan></text></g>
+<g class="k45"><text x="16" y="421" font-size="14"><tspan fill="#d0d0d0">   IPv4 Address. . . . . . . . . . . : 10.10.10.20(Preferred)</tspan></text></g>
+<g class="k46"><text x="16" y="241" font-size="14"><tspan fill="#d0d0d0">   IPv4 Address. . . . . . . . . . . : 10.10.10.20(Preferred)</tspan></text></g>
+<g class="k42"><text x="16" y="501" font-size="14"><tspan fill="#d0d0d0">   Subnet Mask . . . . . . . . . . . : 255.255.255.0</tspan></text></g>
+<g class="k43"><text x="16" y="481" font-size="14"><tspan fill="#d0d0d0">   Subnet Mask . . . . . . . . . . . : 255.255.255.0</tspan></text></g>
+<g class="k44"><text x="16" y="461" font-size="14"><tspan fill="#d0d0d0">   Subnet Mask . . . . . . . . . . . : 255.255.255.0</tspan></text></g>
+<g class="k45"><text x="16" y="441" font-size="14"><tspan fill="#d0d0d0">   Subnet Mask . . . . . . . . . . . : 255.255.255.0</tspan></text></g>
+<g class="k46"><text x="16" y="261" font-size="14"><tspan fill="#d0d0d0">   Subnet Mask . . . . . . . . . . . : 255.255.255.0</tspan></text></g>
+<g class="k42"><text x="16" y="521" font-size="14"><tspan fill="#d0d0d0">   Default Gateway . . . . . . . . . : 10.10.10.1</tspan></text></g>
+<g class="k43"><text x="16" y="501" font-size="14"><tspan fill="#d0d0d0">   Default Gateway . . . . . . . . . : 10.10.10.1</tspan></text></g>
+<g class="k44"><text x="16" y="481" font-size="14"><tspan fill="#d0d0d0">   Default Gateway . . . . . . . . . : 10.10.10.1</tspan></text></g>
+<g class="k45"><text x="16" y="461" font-size="14"><tspan fill="#d0d0d0">   Default Gateway . . . . . . . . . : 10.10.10.1</tspan></text></g>
+<g class="k46"><text x="16" y="281" font-size="14"><tspan fill="#d0d0d0">   Default Gateway . . . . . . . . . : 10.10.10.1</tspan></text></g>
+<g class="k42"><text x="16" y="541" font-size="14"><tspan fill="#d0d0d0">   DNS Servers . . . . . . . . . . . : 10.10.10.10</tspan></text></g>
+<g class="k43"><text x="16" y="521" font-size="14"><tspan fill="#d0d0d0">   DNS Servers . . . . . . . . . . . : 10.10.10.10</tspan></text></g>
+<g class="k44"><text x="16" y="501" font-size="14"><tspan fill="#d0d0d0">   DNS Servers . . . . . . . . . . . : 10.10.10.10</tspan></text></g>
+<g class="k45"><text x="16" y="481" font-size="14"><tspan fill="#d0d0d0">   DNS Servers . . . . . . . . . . . : 10.10.10.10</tspan></text></g>
+<g class="k46"><text x="16" y="301" font-size="14"><tspan fill="#d0d0d0">   DNS Servers . . . . . . . . . . . : 10.10.10.10</tspan></text></g>
+<g class="k42"><text x="16" y="561" font-size="14"><tspan fill="#d0d0d0">   NetBIOS over Tcpip. . . . . . . . : Enabled</tspan></text></g>
+<g class="k43"><text x="16" y="541" font-size="14"><tspan fill="#d0d0d0">   NetBIOS over Tcpip. . . . . . . . : Enabled</tspan></text></g>
+<g class="k44"><text x="16" y="521" font-size="14"><tspan fill="#d0d0d0">   NetBIOS over Tcpip. . . . . . . . : Enabled</tspan></text></g>
+<g class="k45"><text x="16" y="501" font-size="14"><tspan fill="#d0d0d0">   NetBIOS over Tcpip. . . . . . . . : Enabled</tspan></text></g>
+<g class="k46"><text x="16" y="321" font-size="14"><tspan fill="#d0d0d0">   NetBIOS over Tcpip. . . . . . . . : Enabled</tspan></text></g>
+<g class="k43"><text x="16" y="561" font-size="14"><tspan fill="#ffffff" text-decoration="underline">beacon</tspan><tspan fill="#ffffff">&gt; arp</tspan></text></g>
+<g class="k44"><text x="16" y="541" font-size="14"><tspan fill="#ffffff" text-decoration="underline">beacon</tspan><tspan fill="#ffffff">&gt; arp</tspan></text></g>
+<g class="k45"><text x="16" y="521" font-size="14"><tspan fill="#ffffff" text-decoration="underline">beacon</tspan><tspan fill="#ffffff">&gt; arp</tspan></text></g>
+<g class="k46"><text x="16" y="341" font-size="14"><tspan fill="#ffffff" text-decoration="underline">beacon</tspan><tspan fill="#ffffff">&gt; arp</tspan></text></g>
+<g class="k44"><text x="16" y="561" font-size="14"><tspan fill="#5fafff">[*] </tspan><tspan fill="#d0d0d0">Tasked beacon to run arp BOF (T1016, T1018)</tspan></text></g>
+<g class="k45"><text x="16" y="541" font-size="14"><tspan fill="#5fafff">[*] </tspan><tspan fill="#d0d0d0">Tasked beacon to run arp BOF (T1016, T1018)</tspan></text></g>
+<g class="k46"><text x="16" y="361" font-size="14"><tspan fill="#5fafff">[*] </tspan><tspan fill="#d0d0d0">Tasked beacon to run arp BOF (T1016, T1018)</tspan></text></g>
+<g class="k45"><text x="16" y="561" font-size="14"><tspan fill="#5fd75f">[+] </tspan><tspan fill="#d0d0d0">host called home, sent: 4512 bytes</tspan></text></g>
+<g class="k46"><text x="16" y="381" font-size="14"><tspan fill="#5fd75f">[+] </tspan><tspan fill="#d0d0d0">host called home, sent: 4512 bytes</tspan></text></g>
+<g class="k46"><text x="16" y="401" font-size="14"><tspan fill="#5fd75f">[+] </tspan><tspan fill="#d0d0d0">received output:</tspan></text></g>
+<g class="k46"><text x="16" y="421" font-size="14"><tspan fill="#d0d0d0">Inteface  --- 0x6</tspan></text></g>
+<g class="k46"><text x="16" y="441" font-size="14"><tspan fill="#d0d0d0">Internet Address        Physical Address        Type</tspan></text></g>
+<g class="k46"><text x="16" y="461" font-size="14"><tspan fill="#d0d0d0">10.10.10.1              00-16-3E-1F-03-01       dynamic</tspan></text></g>
+<g class="k46"><text x="16" y="481" font-size="14"><tspan fill="#d0d0d0">10.10.10.10             00-16-3E-7B-22-0A       dynamic</tspan></text></g>
+<g class="k46"><text x="16" y="501" font-size="14"><tspan fill="#d0d0d0">10.10.10.30             00-16-3E-C4-11-5D       dynamic</tspan></text></g>
+<g class="k46"><text x="16" y="521" font-size="14"><tspan fill="#d0d0d0">10.10.10.255            FF-FF-FF-FF-FF-FF       static</tspan></text></g>
+<g class="k46"><text x="16" y="541" font-size="14"><tspan fill="#d0d0d0">224.0.0.22              01-00-5E-00-00-16       static</tspan></text></g>
+<g class="k46"><text x="16" y="561" font-size="14"><tspan fill="#d0d0d0">239.255.255.250         01-00-5E-7F-FF-FA       static</tspan></text></g>
+<g class="k0"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:42ms</tspan></text></g>
+<g class="k47"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:1s</tspan></text></g>
+<g class="k48"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:2s</tspan></text></g>
+<g class="k49"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:42ms</tspan></text></g>
+<g class="k50"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:42ms</tspan></text></g>
+<g class="k51"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:1s</tspan></text></g>
+<g class="k52"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:2s</tspan></text></g>
+<g class="k53"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:3s</tspan></text></g>
+<g class="k41"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:42ms</tspan></text></g>
+<g class="k54"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:42ms</tspan></text></g>
+<g class="k55"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:1s</tspan></text></g>
+<g class="k56"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:2s</tspan></text></g>
+<g class="k45"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:42ms</tspan></text></g>
+<g class="k57"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:42ms</tspan></text></g>
+<g class="k58"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:1s</tspan></text></g>
+<g class="k59"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:2s</tspan></text></g>
+<g class="k60"><text x="984" y="593" font-size="13" text-anchor="end"><tspan fill="#d0d0d0">last:3s</tspan></text></g>
+<g class="k0"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">42ms</tspan></text></g>
+<g class="k47"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">1s</tspan></text></g>
+<g class="k48"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">2s</tspan></text></g>
+<g class="k49"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">42ms</tspan></text></g>
+<g class="k50"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">42ms</tspan></text></g>
+<g class="k51"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">1s</tspan></text></g>
+<g class="k52"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">2s</tspan></text></g>
+<g class="k53"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">3s</tspan></text></g>
+<g class="k41"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">42ms</tspan></text></g>
+<g class="k54"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">42ms</tspan></text></g>
+<g class="k55"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">1s</tspan></text></g>
+<g class="k56"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">2s</tspan></text></g>
+<g class="k45"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">42ms</tspan></text></g>
+<g class="k57"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">42ms</tspan></text></g>
+<g class="k58"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">1s</tspan></text></g>
+<g class="k59"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">2s</tspan></text></g>
+<g class="k60"><text x="874.4" y="74" font-size="13"><tspan fill="#ffffff">3s</tspan></text></g>
+</svg>

@@ -1,0 +1,105 @@
+# First look at a new host with TrustedSec's Situational Awareness BOFs
+# (github.com/trustedsec/CS-Situational-Awareness-BOF). Task messages and
+# output follow each BOF's own format; the host and its addresses are made up.
+#
+# Render with: beaconcast render examples/situational-awareness.toml
+# Light mode: beaconcast render --mode light examples/situational-awareness.toml
+
+mode = "dark"
+
+[session]
+external = "203.0.113.24"
+internal = "10.10.10.20"
+listener = "https"
+user = "alice"
+computer = "WKS01"
+process = "rundll32.exe"
+pid = 4120
+arch = "x64"
+
+[[command]]
+input = "uptime"
+
+  [[command.event]]
+  at = 0.15
+  kind = "task"
+  text = "Tasked beacon to run uptime BOF (T1082)"
+
+  [[command.event]]
+  at = 0.9
+  kind = "checkin"
+  bytes = 3184
+
+  [[command.event]]
+  at = 1.6
+  kind = "output"
+  text = '''
+Uptime: 3 days, 6 hours, 41 minutes, 12 seconds
+Local time: 2026-10-10 14:03:05
+Boot time: 2026-10-07 07:21:53'''
+
+[[command]]
+input = "ipconfig"
+
+  [[command.event]]
+  at = 0.15
+  kind = "task"
+  text = "Tasked beacon to run ipconfig BOF (T1016)"
+
+  [[command.event]]
+  at = 0.9
+  kind = "checkin"
+  bytes = 9856
+
+  [[command.event]]
+  at = 1.6
+  kind = "output"
+  text = '''
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : WKS01
+   Primary Dns Suffix  . . . . . . . : contoso.lab
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : contoso.lab
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Red Hat VirtIO Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-16-3E-2A-5C-91
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::a4c1:2f9b:6d3e:81c2%6(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.10.10.20(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.10.10.1
+   DNS Servers . . . . . . . . . . . : 10.10.10.10
+   NetBIOS over Tcpip. . . . . . . . : Enabled'''
+
+[[command]]
+input = "arp"
+
+  [[command.event]]
+  at = 0.15
+  kind = "task"
+  text = "Tasked beacon to run arp BOF (T1016, T1018)"
+
+  [[command.event]]
+  at = 0.9
+  kind = "checkin"
+  bytes = 4512
+
+  [[command.event]]
+  at = 1.6
+  kind = "output"
+  text = '''
+Inteface  --- 0x6
+Internet Address        Physical Address        Type
+10.10.10.1              00-16-3E-1F-03-01       dynamic
+10.10.10.10             00-16-3E-7B-22-0A       dynamic
+10.10.10.30             00-16-3E-C4-11-5D       dynamic
+10.10.10.255            FF-FF-FF-FF-FF-FF       static
+224.0.0.22              01-00-5E-00-00-16       static
+239.255.255.250         01-00-5E-7F-FF-FA       static'''
